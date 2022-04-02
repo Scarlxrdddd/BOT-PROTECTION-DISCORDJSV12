@@ -25,5 +25,4 @@
 
 ![image](https://user-images.githubusercontent.com/71601884/161359945-ac71cab0-bd71-4b67-ab9d-cb7e9f479655.png)
 
-
-
+## Don't forget to custom the "config.yml".
