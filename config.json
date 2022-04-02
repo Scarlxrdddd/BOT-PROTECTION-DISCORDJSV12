@@ -1,0 +1,26 @@
+{
+    "token" : "",
+
+    "prefix" : "/",
+    "owner" : "YourID",
+    "name" : "782328426215899156",
+
+    "CHANNEL_WELCOME": "",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "botsCanWin": false,
+    "embedColor": "#1abc9c",
+    "embedColorEnd": "#4F3245",
+    "reaction": "🎉",
+    "giveawayEmoji": "🎉",
+    "cooldown": "15000",
+
+    "database": {
+        "db": "test",
+        "pass": "",
+        "host": "localhost",
+        "user": "root"
+     }
+
+}
+
